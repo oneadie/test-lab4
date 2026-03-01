@@ -1,0 +1,6 @@
+.idea
+venv
+.venv
+.localstack
+*/__pycache__
+__pycache__
